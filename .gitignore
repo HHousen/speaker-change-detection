@@ -1,0 +1,5 @@
+__pycache__
+AMI-diarization-setup/
+lightning_logs/
+wandb/
+Speaker Change Detection/

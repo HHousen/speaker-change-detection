@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "speaker change detection"
+version = "0.1.0"
+description = ""
+authors = ["Hayden Housen <hayden@haydenhousen.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+"pyannote.audio" = "^2.0.1"
+"pyannote.database" = "^4.1.3"
+wandb = "^0.13.4"
+
+[tool.poetry.dev-dependencies]
+ipykernel = "^6.16.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
