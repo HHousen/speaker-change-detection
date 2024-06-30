@@ -8,6 +8,8 @@ This code is based on [pyannote/pyannote-audio](https://github.com/pyannote/pyan
 
 This code can prepare data, train, and perform inference for two different tasks: speaker change detection and speaker segmentation. However, the outputs from both models/configurations can be processed into speaker change points.
 
+**Model Weights** (including short_scd_bigdata.ckpt): [Available from this Google Drive folder](https://drive.google.com/drive/folders/1XeeCDL1IlXUcDdePsN494mYz2CoW-F_7).
+
 Training GIFs (more details in the [presentation](./media/Speaker%20Change%20Detection%20Presentation.pdf)):
 
 Speaker Change Detection | Segmentation
